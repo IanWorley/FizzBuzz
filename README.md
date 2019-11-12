@@ -1,2 +1,2 @@
 # FizzBuzz
-Fizz buzz for python Made by your truly 
+Fizz buzz for python Made by yours truly 
